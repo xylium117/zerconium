@@ -95,7 +95,7 @@ See the [open issues](https://github.com/xylium117/pavillion/issues) for a full 
 
 ## License 📝
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as you see fit. 
+This repository is licensed under the [GPL 3.0 License](LICENSE). Feel free to use and modify the code as you see fit. 
 
 ---
 Enjoy simulating Test matches! Cheers! 🍻
